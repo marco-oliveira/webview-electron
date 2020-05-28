@@ -1,0 +1,14 @@
+{
+  "name": "webview",
+  "version": "1.0.0",
+  "description": "Simples Webview para auxiliar no desenvolvimento frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Marco Antônio",
+  "license": "ISC"
+}
