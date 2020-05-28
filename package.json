@@ -2,13 +2,16 @@
   "name": "webview",
   "version": "1.0.0",
   "description": "Simples Webview para auxiliar no desenvolvimento frontend",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "keywords": [
     "electron"
   ],
   "author": "Marco Antônio",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
 }
